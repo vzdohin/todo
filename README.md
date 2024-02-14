@@ -5,6 +5,6 @@
 
 ## Deploy
 
-    https://todo-pink-six.vercel.app/
+[ссылка](https://todo-pink-six.vercel.app/)
 
 ###

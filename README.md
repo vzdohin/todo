@@ -3,6 +3,8 @@
 - React
 - auto-animate
 
-##
+## Deploy
+
+    https://todo-pink-six.vercel.app/
 
 ###
